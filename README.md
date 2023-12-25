@@ -14,4 +14,11 @@
 -  LED 
 -  Resistor
 -  Capacitor
+
+## Software required 
+-  MPLAB X IDE
+-  Visual Studio Code
+-  MSYS2 UCRT64 Toolchain
+
+  
   
