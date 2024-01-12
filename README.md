@@ -12,12 +12,13 @@
 -  Tri-Color RGB LED
 -  Bluetooth Module
 -  LED 
--  Resistor
--  Capacitor
+-  Resistors
+-  Capacitors
+-  LM35 temperature sensor
 
 ## Software required 
 -  MPLAB X IDE
--  Visual Studio Code
+-  Visual Studio Code with Python extension 
 -  MSYS2 UCRT64 Toolchain
 
   
